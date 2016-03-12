@@ -65,7 +65,7 @@ Plugin 'nvie/vim-flake8'
 
 " Vim-LaTex
 " Plugin 'lervag/vimtex'
-
+Plugin 'octol/vim-cpp-enhanced-highlight'
 " Utility
 " Plugin 'repeat.vim'
 " Plugin 'tpope/vim-surround'
